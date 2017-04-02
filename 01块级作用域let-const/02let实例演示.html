@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+
+	<body>
+		<h3>需求: 点击button输出每一个序列号</h3>
+		<button>1</button>
+		<button>2</button>
+		<button>3</button>
+		<button>4</button>
+		<button>5</button>
+		<button>6</button>
+		<button>7</button>
+		<button>8</button>
+		<button>9</button>
+		<button>10</button>
+		<script>
+			var nodes = document.getElementsByTagName('button');
+			for(var i = 0; i < nodes.length; i++) {
+				nodes[i].addEventListener('click', function() {
+					console.log(`你点击的是第${i}个按钮`);
+				});
+			}
+		</script>
+	</body>
+
+</html>

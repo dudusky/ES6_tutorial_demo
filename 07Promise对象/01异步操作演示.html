@@ -1,0 +1,21 @@
+<html>
+	<head>
+		<title></title>
+	</head>
+	<body>
+		<script type="text/javascript">
+			f1();
+			f2();
+			function f1(callback) {
+				setTimeout(function(){
+					console.log('It time to sleep');
+					callback();
+					
+				}, 2000)
+			}
+			
+			f1(f2)
+		</script>
+		
+	</body>
+</html>
