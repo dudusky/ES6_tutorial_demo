@@ -1,5 +1,10 @@
 # Summary
 
 * [ECMAScript 6\(ES6\) 快速入门手册 ](README.md)
-* [First Chapter](chapter1.md)
+* [一. ECMAScript 快速概览](chapter1.md)
+  * 1.0 背景介绍
+  * 1.0 ES6的优势
+* [二. ES6的使用环境](4e8c-es6-de-shi-yong-huan-jing.md)
+  * [1.0 ES6的兼容和规范](10-es6de-jian-rong-he-gui-fan.md)
+  * [1.1 ES6转码工具Babel的使用方法](11-es6zhuan-ma-gong-ju-babel-de-shi-yong-fang-fa.md)
 
