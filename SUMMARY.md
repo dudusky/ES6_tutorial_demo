@@ -12,4 +12,5 @@
   * [1.0  块级作用域let和const关键词](10-kuai-ji-zuo-yong-yu-let-he-const-guan-jian-ci.md)
   * [1.1 变量/参数的结构赋值](11-bian-91cf-can-shu-de-jie-gou-fu-zhi.md)
   * [1.2 字符串扩展方法](12.md)
+  * [1.3 数组的扩展方法](13-shu-zu-de-kuo-zhan-fang-fa.md)
 
