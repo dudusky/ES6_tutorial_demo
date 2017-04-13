@@ -15,5 +15,18 @@
   * [4. 数组的扩展方法](13-shu-zu-de-kuo-zhan-fang-fa.md)
   * [5. 数据结构Set和Map](14-shu-ju-jie-gou-set-he-map.md)
   * [6. 箭头函数 arrow function](111.md)
-* 112
+  * [7. 数据类型 Symbol ](112.md)
+  * [8. promise对象](8.md)
+  * [9. 继承 Class](222.md)
+  * [10. 模块 Module](23.md)
+* [ES6案例](es6an-li.md)
+  * Class案例
+* [ES6 参考资料](es6-can-kao-zi-liao.md)
+* [JavaScript之编译器原理](javascriptzhi-bian-yi-qi-yuan-li.md)
+* [JavaScript之作用域](javascriptzhi-zuo-yong-yu.md)
+* JavaScript之this
+* [JavaScript之原型和继承](javascriptzhi-yuan-xing.md)
+* JavaScript之闭包
+* JavaScript之模块化编程思想
+* JavaScript之异步编程
 
