@@ -17,5 +17,6 @@
   * [6. 箭头函数 arrow function](111.md)
   * [7. 数据类型 Symbol ](112.md)
   * [8. promise对象](8.md)
-  * [9. 继承](222.md)
+  * [9. 继承 Class](222.md)
+  * [10. 模块](23.md)
 
