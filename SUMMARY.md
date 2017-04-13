@@ -25,7 +25,6 @@
 * [JavaScript之编译器原理](javascriptzhi-bian-yi-qi-yuan-li.md)
 * [JavaScript之作用域](javascriptzhi-zuo-yong-yu.md)
 * [JavaScript之this](javascriptzhi-this.md)
-* [JavaScript之作用域](javascriptzhi-zuo-yong-yu.md)
 * [JavaScript之闭包](javascriptzhi-bi-bao.md)
 * [JavaScript之模块化编程思想](javascriptzhi-mo-kuai-hua-bian-cheng-si-xiang.md)
 * [JavaScript之异步编程](javascriptzhi-yi-bu-bian-cheng.md)
