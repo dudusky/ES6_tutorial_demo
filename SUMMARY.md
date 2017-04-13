@@ -14,4 +14,6 @@
   * [3. 字符串扩展方法](12.md)
   * [4. 数组的扩展方法](13-shu-zu-de-kuo-zhan-fang-fa.md)
   * [5. 数据结构Set和Map](14-shu-ju-jie-gou-set-he-map.md)
+  * [6. 箭头函数 arrow function](111.md)
+* 112
 
