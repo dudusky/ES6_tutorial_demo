@@ -27,4 +27,6 @@
 * JavaScript之this
 * JavaScript之原型
 * JavaScript之闭包
+* JavaScript之模块化编程思想
+* JavaScript之异步编程
 
