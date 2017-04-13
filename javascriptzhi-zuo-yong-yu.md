@@ -8,6 +8,17 @@
 
 
 ## 全局作用域
+```js
+var a === window.a; 
+a === window.a;
+
+
+
+```
+
+
+
+
 
 
 
