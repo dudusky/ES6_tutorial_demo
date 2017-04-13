@@ -15,5 +15,7 @@
   * [4. 数组的扩展方法](13-shu-zu-de-kuo-zhan-fang-fa.md)
   * [5. 数据结构Set和Map](14-shu-ju-jie-gou-set-he-map.md)
   * [6. 箭头函数 arrow function](111.md)
-* 112
+  * [7. 数据类型 Symbol ](112.md)
+  * [8. promise对象](8.md)
+  * 9.  类的继承
 
