@@ -22,7 +22,6 @@
 * [ES6案例](es6an-li.md)
   * Class案例
 * [ES6 参考资料](es6-can-kao-zi-liao.md)
-* [JavaScript进阶内容](javascriptjin-jie-nei-rong.md)
 * [JavaScript之编译器原理](javascriptzhi-bian-yi-qi-yuan-li.md)
 * [JavaScript之作用域](javascriptzhi-zuo-yong-yu.md)
 * [JavaScript之this](javascriptzhi-this.md)
@@ -34,5 +33,4 @@
 * JavaScript之代码规范
 * JavaScript之指针
 * [JavaScript之API文档撰写](javascriptzhi-api-wen-dang-zhuan-xie.md)
-* JavaScript进阶内容
 
