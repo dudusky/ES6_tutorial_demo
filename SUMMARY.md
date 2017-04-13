@@ -19,4 +19,5 @@
   * [8. promise对象](8.md)
   * [9. 继承 Class](222.md)
   * [10. 模块](23.md)
+* [ES6 参考资料](es6-can-kao-zi-liao.md)
 
