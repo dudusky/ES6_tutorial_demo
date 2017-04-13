@@ -23,4 +23,8 @@
   * Class案例
 * [ES6 参考资料](es6-can-kao-zi-liao.md)
 * [JavaScript之编译器原理](javascriptzhi-bian-yi-qi-yuan-li.md)
+* [JavaScript之作用域](javascriptzhi-zuo-yong-yu.md)
+* JavaScript之this
+* JavaScript之原型
+* JavaScript之闭包
 
