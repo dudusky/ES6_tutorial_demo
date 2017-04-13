@@ -25,7 +25,7 @@
 * [JavaScript之编译器原理](javascriptzhi-bian-yi-qi-yuan-li.md)
 * [JavaScript之作用域](javascriptzhi-zuo-yong-yu.md)
 * JavaScript之this
-* JavaScript之原型
+* [JavaScript之原型和继承](javascriptzhi-yuan-xing.md)
 * JavaScript之闭包
 * JavaScript之模块化编程思想
 * JavaScript之异步编程
