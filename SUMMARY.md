@@ -20,13 +20,16 @@
   * [9. 继承 Class](222.md)
   * [10. 模块 Module](23.md)
 * [ES6案例](es6an-li.md)
-  * Class案例
+  * [Class案例](es6an-li/classan-li.md)
 * [ES6 参考资料](es6-can-kao-zi-liao.md)
 * [JavaScript之编译器原理](javascriptzhi-bian-yi-qi-yuan-li.md)
 * [JavaScript之作用域](javascriptzhi-zuo-yong-yu.md)
 * [JavaScript之this](javascriptzhi-this.md)
-* [JavaScript之原型和继承](javascriptzhi-yuan-xing.md)
 * [JavaScript之闭包](javascriptzhi-bi-bao.md)
 * [JavaScript之模块化编程思想](javascriptzhi-mo-kuai-hua-bian-cheng-si-xiang.md)
 * [JavaScript之异步编程](javascriptzhi-yi-bu-bian-cheng.md)
+* JavaScript之数据结构
+* JavaScript之代码规范
+* JavaScript之指针
+* [JavaScript之API文档撰写](javascriptzhi-api-wen-dang-zhuan-xie.md)
 
