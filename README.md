@@ -11,4 +11,3 @@ http://codepen.io/Rosa0205/
 git clone https://github.com/dudusky/ES6_tutorial_demo.git
 git clone https://github.com/dudusky/es6-tutorial.git
 ```
-损失
